@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-jwt-auth",
+  "version": "1.0.0",
+  "description": "Nodejs-JWT-Authentication-with-MySQL-Sequelize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "JWT",
+    "Sequelize",
+    "MySQL",
+    "Authentication"
+  ],
+  "author": "grokonez.com",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^2.2.1",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.3.0",
+    "mysql2": "^1.6.1",
+    "nodemon": "^1.19.2",
+    "sequelize": "^4.39.0",
+    "swagger-jsdoc": "^1.10.3"
+  }
+}
